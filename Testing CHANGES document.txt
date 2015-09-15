@@ -9,3 +9,5 @@ Basically you can review the work others have done before 'committing' to it. Th
 ------------------------------------------------------------------
 ------------------------------------------------------------------
 15/09/2015 - 12:25pm (6 minutes later)
+------------------------------------------------------------------
+Just adding some more thought. I realised that rather than having it all under the 'master' branch I can instead have it under separate branches, each one relating to each test.
