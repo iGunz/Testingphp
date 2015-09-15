@@ -1,0 +1,5 @@
+This test document basically shows if github automatically picks up file changes in the repository directory.
+
+All I did was create a new text file in the repository directory and it came up. This is probably how you insert code files into your project.
+
+It actually has picked it up in the "committed changes" section at the top. I will have to commit these changes somehow.
