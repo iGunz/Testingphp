@@ -9,7 +9,7 @@ echo "In August I visited " .$countries[0]. ", " .$countries[7]. ".";
 echo "In December I toured " .$countries[1]. ", " .$countries[2]. ", " .$countries[3]. ", " .$countries[4]. ", " .$countries[5]. ", " .$countries[6].".";
 
 
-//////////////////////////CODE 5///////////////////////////////////
+//////////////////////////CODE 5 hello///////////////////////////////////
 echo "<br />";
 echo "THIS IS THE SERVER TEST SCRIPT";
 echo "<br />";
