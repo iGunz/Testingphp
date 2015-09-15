@@ -1,7 +1,7 @@
 <?php
 
 
-//TEST CODE CHANGE FOR GITHUB WILL IT UPLOAD?//
+//TEST CODE CHANGE FOR GITHUB WILL IT UPLOAD? SUCCESS!//
 //////////////////////////CODE 6///////////////////////////////////
 
 $countries = array("PLANOtexas", "AbuDhabi", "Makkah", "Medina", "Dubai", "Sharjah", "AlAin", "Florida");
@@ -33,7 +33,7 @@ echo $_SERVER['HTTP_ACCEPT'];
 echo "<br />";
 echo $_SERVER['HTTP_HOST'];
 echo "<br />";
-
+/*
 //////////////////////////CODE 4///////////////////////////////////
 
 function foodwrite() {
@@ -108,5 +108,5 @@ for($c= 0; $c<count($evennum); $c++) {
 }
 echo count($oddnum);
 echo count($evennum);
-
+*/
 ?>
