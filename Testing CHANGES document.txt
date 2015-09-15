@@ -1,0 +1,11 @@
+------------------------------------------------------------------
+------------------------------------------------------------------
+15/09/2015 - 12:19pm
+------------------------------------------------------------------
+This document is a test to see if Github automatically picks up CHANGES made to documents. For now it will treat it as a new file and will go to the 'uncommitted' section. Admin will need to commit these changes first then it will be uploaded to the github server. This is a clever way to make sure naughty people who are messing around with your code/work are caught and actual damage is nullified.
+
+Basically you can review the work others have done before 'committing' to it. That means you've approved it and its part of the official final product.
+
+------------------------------------------------------------------
+------------------------------------------------------------------
+15/09/2015 - 12:25pm (6 minutes later)
